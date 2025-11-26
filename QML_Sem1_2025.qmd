@@ -1,6 +1,6 @@
 ---
 title: "Project Essay: History of R in Linguistics"
-format: html
+format: pdf
 ---
 
 ## Introduction:
